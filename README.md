@@ -31,7 +31,7 @@ as a zip archive that can be downloaded [here][3]. It not necessary to install
 ASSIsT, just extract the ASSIsT\_Windows.xx.zip archive (xx is the version
 number).
 
-An example dataset is [freely available at github][6] available for download.
+An [example dataset][6] and a [reference manual][7] are freely available at github available for download.
 
 Precompiled binary for Windows are available for [version 1.00][4] and [version 1.01][5].
 
@@ -45,8 +45,8 @@ Diego Micheletti and Luca Bianco
 
 Di Guardo M, Micheletti D, Bianco L, Koehorst-van Putten HJJ, Longhi
 S, Costa F, Aranzana MJ, Velasco R, Arús P, Troggio M, van de Weg EW (2015)
-ASSIsT: An Automatic SNP ScorIng Tool for in- and out-breeding species. Bioin-
-formatics, DOI: 10.1093/bioinformatics/btv446
+ASSIsT: An Automatic SNP ScorIng Tool for in- and out-breeding species. 
+Bioinformatics, DOI: 10.1093/bioinformatics/btv446
 
 [1]: http://en.wikipedia.org/wiki/GNU_General_Public_License
 [2]: https://goo.gl/95JQQu
@@ -54,3 +54,5 @@ formatics, DOI: 10.1093/bioinformatics/btv446
 [4]: https://goo.gl/bFE7AG 
 [5]: https://goo.gl/C4TMR1 
 [6]: https://goo.gl/tjmrtY
+[7]: https://goo.gl/SjyshR
+
