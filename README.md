@@ -44,7 +44,7 @@ Diego Micheletti and Luca Bianco
 ## Citing ASSIsT
 
 Di Guardo M, Micheletti D, Bianco L, Koehorst-van Putten HJJ, Longhi
-S, Costa F, Aranzana MJ, Velasco R, Arús P, Troggio M, van de Weg EW (XXXX)
+S, Costa F, Aranzana MJ, Velasco R, Arús P, Troggio M, van de Weg EW (2015)
 ASSIsT: An Automatic SNP ScorIng Tool for in- and out-breeding species. Bioin-
 formatics, DOI: 10.1093/bioinformatics/btv446
 
