@@ -11,37 +11,45 @@ association analysis.
 
 ## Getting started
 
-ASSIsT is written in Python; therefore, it can run virtually in any platform with
-python installed.
+	git clone https://github.com/diegomic/ASSIsT.git
+	cd ASSIsT
+	python ASSisT_1_02.py 
+	
+## Availability
 
-## Installation
-
-The Windows executables is distributed as a zip archive. It not necessary to in-
-stall ASSIsT, just extract the ASSIsT\_Windows.xx.zip archive (xx is the version
-number).
-The source code is a collection of Python scripts. They can be executed from
-any operating system with Python 2.7 installed. The following additional Python
-modules are needed to run the software:
+ASSIsT is released under [GPLv3][1]. The latest source code is 
+[freely available at github][2]. The source code is a collection of Python scripts. 
+They can be executed from any operating system with Python 2.7 installed. 
+Required dependencies:
    - PyQt4 (v.4.8)
    - NumPy (v.1.8 or higher)
    - matplotlib (v.1.3 or higher)
    - SciPy (v.0.14 or higher)
 
-## Running ASSIsT
+The latest precompiled Windows executables is distributed 
+as a zip archive that can be downloaded [here][3]. It not necessary to install
+ASSIsT, just extract the ASSIsT\_Windows.xx.zip archive (xx is the version
+number).
 
- Windows: double click on ASSIsT.exe to start ASSIsT. 
- Source code: execute ASSIsT.py from a command line shell.
+An example dataset is [freely available at github][6] available for download.
+
+Precompiled binary for Windows are available for [version 1.00][4] and [version 1.01][5].
+
 
 ## Authors
 
 Diego Micheletti and Luca Bianco 
 
 
-## How to cite
+## Citing ASSIsT
 
 Di Guardo M, Micheletti D, Bianco L, Koehorst-van Putten HJJ, Longhi
 S, Costa F, Aranzana MJ, Velasco R, Arús P, Troggio M, van de Weg EW (XXXX)
 ASSIsT: An Automatic SNP ScorIng Tool for in- and out-breeding species. Bioin-
 formatics, DOI: 10.1093/bioinformatics/btv446
 
-
+[1]: http://en.wikipedia.org/wiki/GNU_General_Public_License
+[2]: https://goo.gl/95JQQu
+[3]: https://goo.gl/MvEEoz 
+[4]: https://goo.gl/bFE7AG 
+[5]: https://goo.gl/C4TMR1 
