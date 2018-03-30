@@ -1,4 +1,4 @@
-# ASSIsT: 
+# ASSIsT 
 ## An Automatic SNP ScorIng Tool for in- and out-breeding species
 
 ASSIsT is a tool for efficient filtering of Illumina
