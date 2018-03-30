@@ -47,7 +47,7 @@ Diego Micheletti and Luca Bianco
 Di Guardo M, Micheletti D, Bianco L, Koehorst-van Putten HJJ, Longhi
 S, Costa F, Aranzana MJ, Velasco R, Arús P, Troggio M, van de Weg EW (2015)
 ASSIsT: An Automatic SNP ScorIng Tool for in- and out-breeding species. 
-Bioinformatics, DOI: 10.1093/bioinformatics/btv446
+Bioinformatics, DOI: [10.1093/bioinformatics/btv446][8]
 
 [1]: http://en.wikipedia.org/wiki/GNU_General_Public_License
 [2]: https://goo.gl/95JQQu
@@ -56,4 +56,6 @@ Bioinformatics, DOI: 10.1093/bioinformatics/btv446
 [5]: https://goo.gl/C4TMR1 
 [6]: https://goo.gl/tjmrtY
 [7]: https://goo.gl/SjyshR
+[8]: https://academic.oup.com/bioinformatics/article/31/23/3873/208612
+
 
